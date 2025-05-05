@@ -2,7 +2,7 @@
   "name": "nextjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Real4Nightmare.github.io/ToDoApp-1",
+  "homepage": "https://Real4Nightmare.github.io/ToDoApp_next1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
